@@ -4,14 +4,14 @@ Hey, it's Qamar again, and in this post, I'm excited to share my journey of lear
 
 When I first started learning JavaScript, I was overwhelmed by the amount of information out there. But by breaking it down into manageable steps, I was able to learn the basics and build some cool projects. Here's how I did it:
 
-1. Starting with the basics: I began with the basic concepts of JavaScript such as variables, functions, and data types. Here's an example of how I defined and used a variable in JavaScript:
+Starting with the basics: I began with the basic concepts of JavaScript such as variables, functions, and data types. Here's an example of how I defined and used a variable in JavaScript:
 
 ```javascript
 var name = "Qamar";
 console.log("My name is " + name);
 ```
 
-2. Applying what I learned: Once I had a solid understanding of the basics, I started applying what I learned to small projects. Here's an example of a simple program that calculates the sum of two numbers:
+Applying what I learned: Once I had a solid understanding of the basics, I started applying what I learned to small projects. Here's an example of a simple program that calculates the sum of two numbers:
 
 ```javascript
 function addNumbers(a, b) {
@@ -22,14 +22,14 @@ var sum = addNumbers(5, 10);
 console.log(sum);
 ```
 
-3. Using online resources: I found online resources like Codecademy and FreeCodeCamp to be incredibly helpful in expanding my knowledge of JavaScript. Here's an example of a Codecademy exercise that helped me understand how to use arrays in JavaScript:
+Using online resources: I found online resources like Codecademy and FreeCodeCamp to be incredibly helpful in expanding my knowledge of JavaScript. Here's an example of a Codecademy exercise that helped me understand how to use arrays in JavaScript:
 
 ```javascript
 var fruits = ["apple", "banana", "orange"];
 console.log(fruits[0]);
 ```
 
-4. Building projects: Once I had a solid understanding of the basics, I started building more complex projects. Here's an example of a simple weather app that I built using JavaScript:
+Building projects: Once I had a solid understanding of the basics, I started building more complex projects. Here's an example of a simple weather app that I built using JavaScript:
 
 ```javascript
 var apiKey = "your-api-key-here";
@@ -47,7 +47,8 @@ function getWeather(city) {
 getWeather("New York");
 ```
 
-5. Practicing regularly: Finally, I made it a point to practice coding regularly. I found that coding challenges and exercises were a great way to improve my skills. Here's an example of a simple coding challenge that helped me improve my problem-solving skills:
+Practicing regularly: Finally, I made it a point to practice coding regularly. I found that coding challenges and exercises were a great way to improve my skills. Here's an example of a simple coding challenge that helped me improve my problem-solving skills:
+
 ```javascript
 function findLargestNumber(numbers) {
   var largestNumber = numbers[0];
