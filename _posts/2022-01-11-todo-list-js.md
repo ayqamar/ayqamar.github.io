@@ -8,7 +8,7 @@ Overall, it was a great learning experience and I plan to add more features in t
 
 Update 2023-04-13:
 
-Github Repo: [https://github.com/qamarelaasar/to-do-list]([https://link-url-here.org](https://github.com/qamarelaasar/to-do-list))
+Github Repo: [https://github.com/qamarelaasar/to-do-list](https://github.com/qamarelaasar/to-do-list)
 
 
 
