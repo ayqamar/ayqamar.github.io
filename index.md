@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
+Hey, I'm Qamar - a coding, language, and music fanatic. Join me on my blog as I share my thoughts on tech and creativity!
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
